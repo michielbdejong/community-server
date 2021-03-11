@@ -11,7 +11,7 @@ pushd test/tmp
 rm -rf solid-crud-tests
 git clone https://github.com/solid/solid-crud-tests
 cd solid-crud-tests
-git checkout v2.1.1
+git checkout v5.0.0
 npm ci
 
 # Run tests
